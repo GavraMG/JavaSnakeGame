@@ -29,7 +29,7 @@ In Grade 12, I harnessed the power of Java in my classroom to recreate the iconi
 
 ## 💻 Tech Used
 
-My game used: 
+This game uses: 
 
 - **Java:** The core programming language used to build the game's logic and interface.
 
