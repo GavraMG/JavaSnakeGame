@@ -16,7 +16,7 @@
 <br/>
 
 ## About My Game
-In Grade 12, I harnessed the power of Java in my classroom to recreate the iconic Snake game. This project was aim to try to use the knowledge that I learn so far in java to create a simple and enjoyable game that everyone knows about. Using growing programming skills to build this game and also as a personal challenge to elevate a timeless classic with code.
+In Grade 12, I harnessed the power of Java in my classroom to recreate the iconic Snake game. This project was aim to try to use the knowledge that I learn so far in java to create a simple and enjoyable game that everyone knows about. It's designed to provide a fun and interactive experience, highlighting basic game mechanics like collision detection, scorekeeping, and user input handling. Using my growing programming skills to build this game while also as a personal challenge to elevate a timeless classic with code.
 <br/>
 
 ## 🚀 Features
