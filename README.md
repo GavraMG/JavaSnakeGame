@@ -1,4 +1,4 @@
-# 💵 JavaScript Slot Game
+# 🎰 JavaScript Slot Game
 
 <p align="center">
   
@@ -15,7 +15,7 @@
 
 <br/>
 
-## About My Game
+## ⚙️ About My Game
 This JavaScript-based Slot Machine game, was developed as a learning project to consolidate my understanding of user interaction and randomization in programming. Designed to mimic the thrill of a casino experience, this game incorporates user input validation and generates random slot results, simulating the unpredictability of a real slot machine.
 <br/>
 
